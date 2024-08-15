@@ -1,6 +1,6 @@
 # Marvel Match Game
 
-Marvel Match Game is an Android memory card matching game where players need to match pairs of cards within a limited time. 
+Marvel Match Game is a fun,memory-challenging card game designed for Android devices. Test your memory and reflexes as you flip over cards to find matching pairs of Marvel-themed images. The game is perfect for fans of Marvel and memory games alike.
 The app features a simple and engaging game interface, a timer, and moves tracking.
 This is an Android application developed using Java and XML.
 
