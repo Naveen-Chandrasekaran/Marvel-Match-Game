@@ -14,7 +14,7 @@ This is an Android application developed using Java and XML.
 
 ## Instructions
   Here are the instructions on how to play the game and the rules:
-   \n📌Make sure to match the pairs of cards to win the game.
+   📌Make sure to match the pairs of cards to win the game.
    📌Each card is shown face down, and you need to select two cards at a time to find matching pairs.
    📌The game ends when all pairs are found or the time runs out.
     Good Luck!!
