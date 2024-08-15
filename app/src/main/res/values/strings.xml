@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Marvel Match Game</string>
+    <string name="start">Start</string>
+    <string name="card_1">Card 1</string>
+    <string name="moves_0">Moves: 0</string>
+    <string name="card_2">Card 2</string>
+    <string name="time_left_00_00">Time Left: 00:00 </string>
+    <string name="pairs_found_0">Pairs Found: 0 </string>
+    <string name="marvel_match">MARVEL MATCH</string>
+    <string name="tap_to_view_the_card">TAP TO VIEW THE CARD </string>
+    <string name="titleimage">titleimage</string>
+    <string name="instructions">Instructions</string>
+    <string name="exit">Exit</string>
+    <string name="instructions_text">Here are the instructions on how to play the game and the rules:\n 📌Make sure to match the pairs of cards to win the game.\n 📌Each card is shown face down, and you need to select two cards at a time to find matching pairs.\n 📌The game ends when all pairs are found or the time runs out.\n\t Good luck!!</string>
+    <string name="close">Close</string>
+    <string name="instructions_title">INSTRUCTIONS\n</string>
+    <string name="quit">Quit</string>
+    <string name="retry">Retry</string>
+</resources>
